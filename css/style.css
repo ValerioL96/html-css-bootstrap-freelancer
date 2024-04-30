@@ -22,3 +22,12 @@ main article >div.img-1{
     width: 300px;
     background-color: red;
 }
+
+main nav ul{
+    list-style-type: none;
+}
+
+main nav ul>li{
+    border-bottom: solid black;
+    padding-bottom: 1rem;
+}
