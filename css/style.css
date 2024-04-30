@@ -17,10 +17,8 @@ main section div.img{
     border-radius: 100%;
 }
 
-main article >div.img-1{
-    height: 180px;
-    width: 300px;
-    background-color: red;
+main section#portfolio div.container article>img{
+    height: 300px;
 }
 
 main nav ul{
